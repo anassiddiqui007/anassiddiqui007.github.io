@@ -1,0 +1,36 @@
+header {
+    width: 100%;
+    height: 150px;
+    background:url(https://previews.123rf.com/images/saicle/saicle1710/saicle171000175/88316421-abstract-tech-futuristic-web-header-banner-dark-blue-vector-background.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% ;
+    padding : 47px;
+    font-family: 'Potta One';
+
+}
+#skills img {
+    height : 150px;
+    width  : 350px;
+}
+#certi img {
+    height : 280px;
+    width  : 570px;
+}
+
+#education img {
+    height : 250px;
+    width  : 100%;
+}
+#research img {
+    height : 250px;
+    width  : 100%;
+}
+#workex img {
+    height : 250px;
+    width  : 100%;
+}
+
+#contact img {
+    height:150px;
+    width : 60%;
+}
